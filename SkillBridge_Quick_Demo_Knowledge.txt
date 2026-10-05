@@ -1,0 +1,80 @@
+SKILLBRIDGE AI — SYNTHETIC DEMONSTRATION KNOWLEDGE
+Version: 2 October 2026
+All candidates, employers, opportunities, eligibility rules, stipends, and programme details below are FICTIONAL FOR HACKATHON DEMONSTRATION ONLY. They are not real vacancies, programmes, accredited certifications, or actual application links. Do not imply they are real or currently available.
+
+ROLE OF THIS DOCUMENT
+Use these opportunity records to demonstrate grounded matching and gap explanations. Never invent a real employer or opening. If asked for real vacancies, say the currently connected data is synthetic and refer users to verified sources instead of making one up. Ask for missing candidate details before asserting eligibility. Avoid eligibility scores as definitive hiring predictions. Describe self-reported, project-supported, internally assessed, and externally verified as distinct statuses.
+
+MATCHING LOGIC FOR DEMO
+1. Ask the candidate for education level, province or preferred area, skills, project evidence, and interests. Experience is optional.
+2. Check mandatory eligibility separately from preferred skills. If a mandatory field is unknown, state "eligibility needs confirmation" rather than rejecting or assuming.
+3. Recognize skill evidence: self-declared = user reports it; project-supported = user describes or uploads a relevant project; SkillBridge-assessed = user completes the separately controlled internal assessment (the chat agent cannot grant this badge); independently verified = only when an authorized real process confirms it (not available in this demo).
+4. Explain which required skills match, which are missing or unknown, and one actionable development step; geographic preference should not automatically disqualify unless stated as mandatory.
+5. Final shortlist and selection decisions remain with a human coordinator. The AI chat does not grade official skill assessments.
+
+SYNTHETIC OPPORTUNITY RECORDS
+ID: DEMO-001
+Title: Junior Data Support Learnership
+Fictional provider: BridgeWorks Training (DEMO ONLY)
+Type: Learnership
+Location: Johannesburg, Gauteng (onsite)
+Mandatory eligibility: Matric or equivalent; basic Excel; willingness to work onsite
+Preferred skills: SQL; communication; data cleaning
+Professional experience: Not required
+Development suggestion: Practise a data-cleaning spreadsheet, then write 3 introductory SQL queries
+
+ID: DEMO-002
+Title: Entry-Level Data Analyst Internship
+Fictional provider: Mzansi Data Lab (DEMO ONLY)
+Type: Internship
+Location: Johannesburg, Gauteng (hybrid)
+Mandatory eligibility: Matric or equivalent; introductory Excel; basic SQL
+Preferred skills: Python; data visualization; Power BI; evidence of a data project
+Professional experience: Not required
+Development suggestion: Build an Excel dashboard or Power BI practice portfolio
+
+ID: DEMO-003
+Title: Customer Service Digital Learnership
+Fictional provider: Ubuntu Service Hub (DEMO ONLY)
+Type: Learnership
+Location: Pretoria, Gauteng (onsite)
+Mandatory eligibility: Matric or equivalent; communication; basic computer literacy
+Preferred skills: Excel; customer service; English and another South African language
+Professional experience: Not required
+Development suggestion: Create a sample customer-query tracker in a spreadsheet
+
+ID: DEMO-004
+Title: Junior Web Support Internship
+Fictional provider: Campus Web Studio (DEMO ONLY)
+Type: Internship
+Location: Johannesburg, Gauteng (hybrid)
+Mandatory eligibility: Basic HTML; basic CSS; willingness to complete a practical task
+Preferred skills: JavaScript; Git; portfolio website; teamwork
+Professional experience: Not required
+Development suggestion: Build and document a small responsive website
+
+ID: DEMO-005
+Title: Small Business Digital Skills Programme
+Fictional provider: Kasi Growth Network (DEMO ONLY)
+Type: Entrepreneurship support
+Location: Gauteng (online and occasional in-person sessions)
+Mandatory eligibility: Interested in starting or improving a microbusiness; basic mobile-phone literacy
+Preferred skills: budgeting; spreadsheet basics; customer service; digital marketing
+Professional experience: Not required
+Development suggestion: Create a sample pricing spreadsheet and simple product flyer
+
+ID: DEMO-006
+Title: Community IT Support Learnership
+Fictional provider: FutureTech Community (DEMO ONLY)
+Type: Learnership
+Location: Ekurhuleni, Gauteng (onsite)
+Mandatory eligibility: Matric or equivalent; basic computer literacy; willingness to work onsite
+Preferred skills: troubleshooting; communication; hardware knowledge; customer support
+Professional experience: Not required
+Development suggestion: Record a short troubleshooting walkthrough for a common computer issue
+
+PRACTICE-QUESTION POLICY
+You may generate and explain NEW UNGRADED PRACTICE questions. Clearly label them practice only. Never say that completing chat questions confers an assessed badge, formal skill verification, or a qualification. Scored SkillProof exams must remain in the application with reviewed questions and controlled grading.
+
+RECOMMENDED DEMO SCENARIO
+Fictional candidate Naledi: matric; lives in Tembisa, Gauteng; self-reports Excel and SQL; has a university spreadsheet project; no professional experience; interested in junior data jobs. Explain eligibility for DEMO-001 and DEMO-002, what is supported versus self-reported, what needs clarification, and an appropriate development activity. All details fictional.
